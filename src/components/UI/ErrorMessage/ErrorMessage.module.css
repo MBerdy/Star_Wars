@@ -1,0 +1,7 @@
+.ErrorMessage {
+  width: 400px;
+  margin: 80px auto;
+  background-color: #fce4e4;
+  border: 1px solid #fcc2c3;
+  padding: 20px 30px;
+}

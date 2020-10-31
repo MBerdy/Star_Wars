@@ -1,0 +1,16 @@
+.Planet {
+    width: 20%;
+    box-sizing: border-box;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease-in;
+}
+
+.Planet:hover {
+   background: #F0F8FF;
+   box-shadow: 0 5px 8px #ccc;
+}

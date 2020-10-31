@@ -1,0 +1,54 @@
+.FullDescr {
+    width: 35%;
+    margin: 0 auto;
+    margin-top: 40px;
+    box-shadow: 0 6px 9px#959A9A;
+    border: 1px solid #eee;
+    padding: 30px;
+    font-size: 18px;
+}
+
+.DescrList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.DescrList li span {
+    margin-top: 10px;
+    display: inline-block;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    padding: 8px;
+}
+
+.Resident {
+    width: auto;
+    text-align: center;
+    margin-top: 8px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    padding: 5px;
+
+}
+
+.Title {
+    text-align: center;
+}
+
+.Button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 20px 15px;
+    font-size: 20px;
+    background:#F0F8FF;
+    border: 1px solid #eee ;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0,3s ease-out;
+}
+
+.Button:hover {
+    background: #F1F1F1;
+}
